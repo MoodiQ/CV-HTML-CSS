@@ -1,0 +1,151 @@
+      body {
+        background-image: url(Background1.jpeg);
+        background-position: static;
+        background-attachment: fixed;
+      }
+
+      h1 {
+        color: lightslategray;
+        font-family: Cursive;
+        margin-left: 45px;
+        font-size: 1.3em;
+      }
+
+      img {
+        min-width: 100px;
+        min-height: 100px;
+        max-height: 100px;
+        margin-top: 10px;
+        /* margin-top: -80px; */
+        margin-left: 70px;
+      }
+
+      span {
+        color: lightslategray;
+        margin-left: 40px;
+      }
+
+      .line {
+        color: dimgray;
+        margin-left: 40px;
+      }
+
+      .title {
+        color: dimgray;
+        margin-left: 60px;
+        text-align: center;
+        font-size: 1.5em;
+      }
+
+      .data {
+        color: lightslategray;
+        margin-left: 40px;
+        font-size: 0.9em;
+      }
+
+      a.link {
+        text-decoration: none;
+        font-size: 0.9em;
+        color: lightslategray;
+        margin-left: 1px;
+      }
+
+      a:hover {
+        text-decoration: underline;
+      }
+
+      .right-side {
+        margin-top: -580px;
+      }
+      .summary-heading {
+        color: lightslategray;
+        font-family: Cursive;
+        margin-top: -720px;
+        font-size: 1.3em;
+      }
+      .summary {
+        color: white;
+        font-family: Arial, Helvetica, sans-serif;
+        margin-top: 200px;
+        margin-left: 270px;
+        font-size: 1em;
+      }
+      .education {
+        color: white;
+        font-family: Arial, Helvetica, sans-serif;
+        margin-top: 200px;
+        margin-left: 270px;
+        font-size: 1em;
+      }
+      .education-heading {
+        color: lightslategray;
+        font-family: Cursive;
+        margin-top: -170px;
+        font-size: 1.3em;
+      }
+      .project-heading {
+        color: lightslategray;
+        font-family: Cursive;
+        margin-top: -170px;
+        font-size: 1.3em;
+      }
+      .project {
+        color: white;
+        font-family: Arial, Helvetica, sans-serif;
+        margin-left: 270px;
+        font-size: 1em;
+      }
+
+      .certifcate-heading {
+        color: lightslategray;
+        font-family: Cursive;
+        margin-top: -170px;
+        font-size: 1.3em;
+      }
+
+      .interest {
+        color: white;
+        font-family: Arial, Helvetica, sans-serif;
+        margin-left: 770px;
+        font-size: 1em;
+      }
+
+      .interest-heading {
+        color: lightslategray;
+        font-family: Cursive;
+        margin-top: -100px;
+        font-size: 1.3em;
+      }
+      .inter {
+        margin-top: -72px;
+        margin-left: 300px;
+      }
+      .inter-p {
+        margin-left: 300px;
+      }
+      .uni {
+        margin-top: -72px;
+        margin-left: 700px;
+      }
+      .uni-p {
+        margin-left: 700px;
+      }
+
+      .contact {
+        min-height: 20px;
+        max-height: 20px;
+        margin-top: 10px;
+        margin-left: 50px;
+      }
+      .conact-p{
+        margin-left: -10px;
+        color: lightslategray;
+        font-size: 0.9em;
+      }
+      .conact-git{
+        margin-left: 50px;
+        color: lightslategray;
+        font-size: 1.3em;
+      }
+	  
+	 
